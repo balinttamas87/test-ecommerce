@@ -1,0 +1,17 @@
+projectName: Live Coding balinttamas87
+learnMoreLink: https://www.createinc.co
+repoOwner: Create-Inc-Candidates
+repoName: live-coding-balinttamas87
+abbreviatedProjectName: liveCodingBalinttamas87
+stack:
+  - features: []
+    kind: LiveCodingAssessment
+    path: .
+environments:
+  - Production
+  - Staging
+  - Development
+  - Storybook
+config:
+  version: 0.0.1
+  commitHash: 810b6e9
